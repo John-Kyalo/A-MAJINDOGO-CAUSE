@@ -1,11 +1,11 @@
 # A-MAJINDOGO-CAUSE
 A FOCUS ON SDG 6: CLEAN WATER AND SANITATION 
 
-#This project extensivily covers the water-crisis in Majindogo Community.
+# This project extensivily covers the water-crisis in Majindogo Community.
 With a databse with over 60000 records, we get to understand some of the underlying issues in the community and help curate solutions to this action
 
-#PARTS AND STEPS
-#PART 1
+PARTS AND STEPS
+PART 1
 1. UNDERSTANDING THE DATA
 2. DIVING INTO SOURCES
 3. UNPACK VISITS
@@ -13,7 +13,7 @@ With a databse with over 60000 records, we get to understand some of the underly
 5. POLLUTION ISSUES
 
 
-#PART 2
+PART 2
 1. CLEANING DATA
 2. HONORING WORKERS
 3. ANALYZING LOCATIONS
@@ -58,13 +58,13 @@ commonly affected areas though to see where the problem actually is.
 
 
 
-#PART 3
-1. Generating an ERD
-2. Integrating the report
-3. Linking records
-4. Gathering evidence
+PART 3
+1. GENERATING AN ERD
+2. INTEGRATING THE REPORT
+3. LINKING THE RECORDS
+4. GATHERING EVIDENCE
 
-#PART 4
+PART 4
 1. JOINING PIECES TOGETHER
 2. LAST ANALYSIS
 3. SUMMARY REPORT
