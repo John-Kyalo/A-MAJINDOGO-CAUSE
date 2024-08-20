@@ -4,7 +4,13 @@ A FOCUS ON SDG 6: CLEAN WATER AND SANITATION
 # This project extensivily covers the water-crisis in Majindogo Community.
 With a databse with over 60000 records, we get to understand some of the underlying issues in the community and help curate solutions to this action
 
+![water crisis](Screenshots/water_crisis.png)
+
+#QUERYING DATA
+
 PARTS AND STEPS
+
+
 PART 1
 1. UNDERSTANDING THE DATA
 2. DIVING INTO SOURCES
@@ -64,9 +70,36 @@ PART 3
 3. LINKING THE RECORDS
 4. GATHERING EVIDENCE
 
+![piece of part 3 script](Screenshots/part_3_sql.png)
+
 PART 4
 1. JOINING PIECES TOGETHER
 2. LAST ANALYSIS
 3. SUMMARY REPORT
 
+
+#VISUALISING DATA
+PARTS AND STEPS
+
+PART 1
+1. IMPORTING DATA
+2. VISUAL ANALYSIS
+3. MAPPING OUR DATA
+4. WATER COLLECTION
+5. CRIME AND WATER
+
+PART 2
+1. BUILD A DATA MODEL
+2. NATIONAL SCALE
+3. VISUALISE QUEUES
+4. CLEANING UP WELLS
+5. CONNECTING CRIME
+
+As of Part 2, Some of the trends are:
+1. AS water collectors, women are twice as likely to be a victim of crime than men
+2. Women are likely to be victims of harrasment, followed by sexual assault
+3. Crime spikes over weekend, and almost twice as many crimes are committed early in the morning or at night with women facing the greatest threat
+4. In Amanzi, women face significantly less risk of being crime victims.
+
+   ![part 2 visual](Screenshots/part_2_visual.png)
 
