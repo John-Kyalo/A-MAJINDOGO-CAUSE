@@ -5,6 +5,7 @@ A FOCUS ON SDG 6: CLEAN WATER AND SANITATION
 With a databse with over 60000 records, we get to understand some of the underlying issues in the community and help curate solutions to this action
 
 ![water crisis](Screenshots/water_crisis.png)
+
 #QUERYING DATA
 
 PARTS AND STEPS
