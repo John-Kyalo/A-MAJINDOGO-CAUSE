@@ -6,7 +6,7 @@ With a databse with over 60000 records, we get to understand some of the underly
 
 ![water crisis](Screenshots/water_crisis.png)
 
-#QUERYING DATA
+# QUERYING DATA
 
 PARTS AND STEPS
 
@@ -78,7 +78,7 @@ PART 4
 3. SUMMARY REPORT
 
 
-#VISUALISING DATA
+# VISUALISING DATA
 PARTS AND STEPS
 
 PART 1
