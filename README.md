@@ -103,3 +103,14 @@ As of Part 2, Some of the trends are:
 
    ![part 2 visual](Screenshots/part_2_visual.png)
 
+PART 3
+1. USER FOCUS
+2. DATA AND VISUALS
+3. DATA INSIGHTS
+4. PROVINCIAL PERSPECTIVE
+5. ENRICHING DATA
+6. REPORT CREATION
+
+Here is a glimpse of the end to end report that showscases National results and drills down to provincional results
+
+   ![1st report](Screenshots/1st_report.png)
